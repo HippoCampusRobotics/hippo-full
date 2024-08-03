@@ -20,15 +20,16 @@
   <exec_depend>uvms_msgs</exec_depend>
 
   <!-- all other packages -->
+  <exec_depend>dvl</exec_depend>
+  <exec_depend>esc</exec_depend>
+  <exec_depend>gantry</exec_depend>
+  <exec_depend>hardware</exec_depend>
   <exec_depend>hippo_common</exec_depend>
   <exec_depend>hippo_control</exec_depend>
-  <exec_depend>hardware</exec_depend>
-  <exec_depend>esc</exec_depend>
-  <exec_depend>path_planning</exec_depend>
-  <exec_depend>remote_control</exec_depend>
-  <exec_depend>dvl</exec_depend>
   <exec_depend>hippo_gz_plugins</exec_depend>
   <exec_depend>hippo_sim</exec_depend>
+  <exec_depend>path_planning</exec_depend>
+  <exec_depend>remote_control</exec_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
