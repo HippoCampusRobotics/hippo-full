@@ -2,8 +2,8 @@
 Changelog for package hippo_full
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.2 (2024-08-03)
+------------------
 * added source dependencies to install them with vcs
 * added gantry pkg and sorted dependencies
 * Contributors: Thies Lennart Alff
