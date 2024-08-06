@@ -55,6 +55,10 @@ repositories:
     type: git
     url: https://github.com/hippocampusrobotics/gantry.git
     version: main
+  gantry_gui:
+    type: git
+    url: https://github.com/hippocampusrobotics/gantry_gui.git
+    version: main
   hardware:
     type: git
     url: https://github.com/hippocampusrobotics/hardware.git
