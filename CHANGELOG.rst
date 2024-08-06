@@ -4,6 +4,11 @@ Changelog for package hippo_full
 
 Forthcoming
 -----------
+* 1.0.3
+* updated changelog
+* add gantry gui
+* Contributors: NBauschmann
+
 * add gantry gui
 * Contributors: NBauschmann
 
