@@ -2,8 +2,8 @@
 Changelog for package hippo_full
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.4 (2024-08-06)
+------------------
 * 1.0.3
 * updated changelog
 * add gantry gui
