@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>hippo_full</name>
-  <version>1.0.3</version>
+  <version>1.0.2</version>
   <description>Meta package for all the HippoCampus framework related packages</description>
   <maintainer email="thies.lennart.alff@tuhh.de">Thies Lennart Alff</maintainer>
   <license>GPLv2</license>
@@ -23,6 +23,7 @@
   <exec_depend>dvl</exec_depend>
   <exec_depend>esc</exec_depend>
   <exec_depend>gantry</exec_depend>
+  <exec_depend>gantry_gui</exec_depend>
   <exec_depend>hardware</exec_depend>
   <exec_depend>hippo_common</exec_depend>
   <exec_depend>hippo_control</exec_depend>
