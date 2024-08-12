@@ -2,6 +2,12 @@
 Changelog for package hippo_full
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* added qualisys_bridge as dependency
+* added README
+* Contributors: Thies Lennart Alff
+
 1.0.4 (2024-08-06)
 ------------------
 * 1.0.3
