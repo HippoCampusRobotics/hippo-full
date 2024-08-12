@@ -30,6 +30,7 @@
   <exec_depend>hippo_gz_plugins</exec_depend>
   <exec_depend>hippo_sim</exec_depend>
   <exec_depend>path_planning</exec_depend>
+  <exec_depend>qualisys_bridge</exec_depend>
   <exec_depend>remote_control</exec_depend>
 
   <export>

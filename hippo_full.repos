@@ -83,6 +83,10 @@ repositories:
     type: git
     url: https://github.com/hippocampusrobotics/path_planning.git
     version: main
+  qualisys_bridge:
+    type: git
+    url: https://github.com/hippocampusrobotics/qualisys_bridge.git
+    version: main
   remote_control:
     type: git
     url: https://github.com/hippocampusrobotics/remote_control.git
